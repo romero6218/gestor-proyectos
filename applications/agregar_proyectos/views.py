@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from django.views.generic import (CreateView, ListView)
+from django.views.generic import (CreateView, ListView, TemplateView)
 from . import (models, forms)
 # Create your views here.
 
@@ -15,5 +15,11 @@ class Create(CreateView):
 
 class ListPost(ListView):
     queryset = models.Proyecto.objects.all()
-    template_name =
+    template_name = "list.html"
+    context_object_name = "lista"
+
+class DetallePost(ListView):
+    queryset = models.Proyecto.objects.all()
+    template_name = "list.html"
+    context_object_name = "lista"
 
