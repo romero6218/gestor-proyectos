@@ -9,7 +9,7 @@
 <ul>
     {% for post in lista %}
     <li>
-        <a href= "{% url 'proyecto_create' pk=post.id %}"/> {{post.nombre}}</a></li>
+        <a href= "{% url 'proyecto_detail' post.id %}"> {{post.nombre}}</a></li>
     {% endfor %}
 </ul>
 
