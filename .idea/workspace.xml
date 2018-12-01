@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44f23ee5-aa57-4fca-a35b-c2f8d709e82c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/applications/agregar_proyectos/templates/actualizar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/agregar_proyectos/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/applications/agregar_proyectos/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_avocado/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_avocado/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project_avocado/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project_avocado/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/agregar_proyectos/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/agregar_proyectos/conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/agregar_proyectos/templates/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/applications/agregar_proyectos/templates/create.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/applications/agregar_proyectos/templates/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/applications/agregar_proyectos/templates/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/agregar_proyectos/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/agregar_proyectos/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/applications/agregar_proyectos/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/applications/agregar_proyectos/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,6 +21,15 @@
               <folding>
                 <element signature="e#0#105#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -64,7 +61,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -97,8 +94,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -108,18 +105,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="53" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="53" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="53" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -149,7 +134,6 @@
         <option value="$PROJECT_DIR$/applications/agregar_proyectos/models.py" />
         <option value="$PROJECT_DIR$/applications/agregar_proyectos/forms.py" />
         <option value="$PROJECT_DIR$/applications/agregar_proyectos/templates/detalle.html" />
-        <option value="$PROJECT_DIR$/applications/agregar_proyectos/templates/list.html" />
         <option value="$PROJECT_DIR$/templates/css/freelancer.min.css" />
         <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/Project_avocado/urls.py" />
@@ -161,10 +145,11 @@
         <option value="$PROJECT_DIR$/applications/agregar_proyectos/urls.py" />
         <option value="$PROJECT_DIR$/applications/agregar_proyectos/views.py" />
         <option value="$PROJECT_DIR$/applications/agregar_proyectos/templates/detail.html" />
+        <option value="$PROJECT_DIR$/applications/agregar_proyectos/templates/list.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-13" />
     <option name="y" value="339" />
     <option name="width" value="1378" />
@@ -278,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16741072" />
@@ -597,13 +582,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -631,24 +609,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/actualizar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/create.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -662,10 +626,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/actualizar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/create.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -676,10 +654,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
+    <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/applications/agregar_proyectos/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
         </state>
       </provider>
     </entry>
